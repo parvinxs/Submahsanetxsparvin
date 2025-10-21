@@ -77,3 +77,12 @@ hysteria2://8aa7b2ad-4c8a-46fb-abb9-705b8fc44fec@sg.shanlianapp.com:40000?securi
 hysteria2://8aa7b2ad-4c8a-46fb-abb9-705b8fc44fec@fl.shanlianapp.com:443?security=tls&insecure=0&mport=20000-30000#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 hy2://8aa7b2ad-4c8a-46fb-abb9-705b8fc44fec@hk.shanlianapp.com:20000/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
 hy2://8aa7b2ad-4c8a-46fb-abb9-705b8fc44fec@de.shanlian.app:30000/#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?encryption=none&type=grpc&mode=gun#@v2ray_cartel
+
+vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?encryption=none&type=grpc&mode=gun&serviceName=Smxhabwh&security=tls&fp=chrome&sni=offged.sahandconfig.ir&alpn=h2,http/1.1#@v2ray_cartel
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?encryption=none&type=grpc&mode=gun#@v2ray_cartel
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#KIAN.AZADNET.%20VPN%20%F0%9F%8C%B9%E2%9D%A4%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@id.vpnsparta.pro:57456#AZAD.NET.VPN%F0%9F%92%AB%E2%9D%A4%EF%B8%8F
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.98:80?mode=gun&security=none&encryption=none&type=grpc#AZAD.NET.VPN%F0%9F%A4%9F%E2%9D%A4%EF%B8%8F%F0%9F%92%AB
+
