@@ -51,3 +51,5 @@ vless://02334dc7-5535-4909-a972-07d1d937ea3f@80.242.56.200:8444?security=reality
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.34:80?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40PlanB_net%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%86%94
 𝗝𝗼𝗶𝗻 ➠ @PlanB_net
+
+vless://95a68484-796e-4eae-b52a-4abfb0e72296@31.170.22.198:443?security=reality&encryption=none&pbk=imXuUOiAB_4FnOdimm98VJtIMXcpKvJmhC7vU0F4Sys&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=e220812ec9f3#%F0%9F%87%B1%F0%9F%87%BB%20channel%20%40Ettehad_vpn
