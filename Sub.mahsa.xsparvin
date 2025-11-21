@@ -347,3 +347,17 @@ hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:2165
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNNmFKN2U0STI5NVdGcDRXWWZ3YjFv@80.71.157.175:38211#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20-%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%9A%A1
 
+vless://62e18440-148d-4b82-8a14-160c35144ffd@gamma-smart-agent-worker-wild.dlcnamatike7.com:19771?path=%2F&security=none&encryption=none&type=ws#%40Filter_breaker-1
+vless://e211a4f6-5afb-467f-ab8f-2f08e06c1b66@Abmive.abmivenaser-18.ir:1520?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40Filter_breaker-2
+vless://cad50a8e-1b40-4e81-9c36-e2425d910574@62.60.233.21:64392?security=reality&encryption=none&pbk=jkDZG14yH1-j-HH1xDuuKq3IW54FSPSNFfrl9iUWC08&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=9572999470cc445d#%40Filter_breaker-3 %7C %F0%9F%87%B9%F0%9F%87%B7
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%40Filter_breaker-4 %7C %F0%9F%87%B3%F0%9F%87%B1
+vless://7bfca5ab-4ef9-4c84-8888-e19d3995a2a0@91.107.157.29:49507?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40Filter_breaker-5 %7C %F0%9F%87%A9%F0%9F%87%AA
+vless://5713fee0-2f51-4453-9502-b7fd38a657b6@84.201.149.75:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=moodle.sligvpn.ru#%40Filter_breaker-6 %7C %F0%9F%87%B7%F0%9F%87%BA
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%40Filter_breaker-7 %7C %F0%9F%87%B3%F0%9F%87%B1
+vless://d71ac071-5dc5-4930-824a-cacd3e85dad2@forest-moon-pulse-bright-quick.dlcnamatike7.com:19771?type=ws&encryption=none&path=%2F&host=&security=none#%40Filter_breaker-8
+
+vless://70ec317d-d66d-4f9d-955a-fcd58678ce4c@70.34.214.175:13369?security=reality&encryption=none&pbk=U1VfZuybGyl0BnG82ZJKUnXsZQdUxDkZVm67RZB8C34&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=cloudflare.com&sid=d868e6#%40Filter_breaker-9 %7C %F0%9F%87%B8%F0%9F%87%AA
+vless://d11fb55a-d651-4f6d-828b-ee7f2b1f0d78@70.34.214.175:23129?mode=gun&security=reality&encryption=none&pbk=pInfFMwVy_AJ7Nul07Ol-ZR2IprBpr5idc3mtGwoDnw&fp=chrome&spx=%2F&type=grpc&sni=cloudflare.com&sid=c8de20#%40Filter_breaker-10 %7C %F0%9F%87%B8%F0%9F%87%AA
+vless://402cf4cd-287c-4774-954e-c84a6a233fa5@70.34.214.175:10995?mode=auto&path=%2F&security=reality&encryption=none&pbk=2ztwuXmy5ttCN-IqWid22abpZFRqcj9aUalL6B8Kxlw&fp=chrome&spx=%2F&type=xhttp&sni=cloudflare.com&sid=43d9#%40Filter_breaker-11 %7C %F0%9F%87%B8%F0%9F%87%AA
+vless://73738858-0d45-4e31-ac88-2ee8c5e17af7@freefree.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=freefree1213.global.ssl.fastly.net&type=xhttp#%40Filter_breaker-12
+
